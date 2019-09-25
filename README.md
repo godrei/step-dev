@@ -1,12 +1,12 @@
 # Step Development Guideline
 
-## Step Development
+## Step development
 
-- [step title, description and summary](./title.md)
-- [step inputs](./inputs.md)
-- [step outputs](./outputs.md)
-- [step dependencies](./dependencies.md)
-- [step grouping](./grouping.md)
+- [Title, Description and Summary](./title.md)
+- [Inputs](./inputs.md)
+- [Outputs](./outputs.md)
+- [Dependencies](./dependencies.md)
+- [Grouping](./grouping.md)
 - [Condition based step run](./conditional_run.md)
 - [Error handling](./error_handling.md)
 
