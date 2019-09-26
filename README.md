@@ -14,10 +14,8 @@
 
 ## Step sharing
 
-- when to share a step
-  - duplicated steps
-- step versioning
-- step id naming
-- step icon
-- share process
-  - restart the share
+- [When to share a step](./share.md)
+- [Versioning](./versioning.md)
+- [Step ID](./step_id.md)
+- [Icon](./icon.md)
+- [Share process](./share_process.md)

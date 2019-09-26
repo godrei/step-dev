@@ -8,11 +8,11 @@ Steps can be activated in three ways in workflows:
 
 - Step from a StepLib
 - Step from direct url
-- Local step
+- Step from local path
 
 During step development running a step from its local file path is the best approach. When you reached a state which you want to mark a stable version of the step you push that version into a step repository and you can test that step version using the step repository's url.
 
-If the step would be useful for others too, you can hare it to a StepLib, like the [official Bitrise StepLib](https://github.com/bitrise-io/bitrise-steplib.git) and use it from the StepLib.
+If the step would be useful for others too, you can share it to a StepLib, like the [official Bitrise StepLib](https://github.com/bitrise-io/bitrise-steplib.git) and use your step from the StepLib.
 
 ## Step from a StepLib
 
@@ -87,7 +87,7 @@ workflows:
           title: "remote_git-stamp-test"
 ```
 
-## Local step
+## Step from local path
 
 You can specify local path for a step as well.
 The path can be any kind of path (even absolute path) but the best way is to use relative paths if you want to run your workflow on a Continuous Integration service or want to share with someone else.
