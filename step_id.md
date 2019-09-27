@@ -1,2 +1,3 @@
 # Step ID
 
+Use hyphen (`-`) separated words for you step id, like: `set-bundle-identifier`, `xcode-archive`, ...

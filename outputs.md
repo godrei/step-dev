@@ -1,8 +1,5 @@
 # Step outputs
 
-- naming
-- output list
-
 ## Step Output ID and Title naming
 
 Use all-upper-case [snake case](https://en.wikipedia.org/wiki/Snake_case) style output IDs, e.g. `OUTPUT_PATH`.

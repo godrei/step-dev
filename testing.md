@@ -71,7 +71,7 @@ workflows:
               echo "Welcome to Bitrise!"
 ```
 
-## Step from direct-url
+## Step from direct url
 
 This workflow shows how to use steps with specifying the step's git clone URL directly.
 This way the step will always be git cloned from the specified URL and not used from a step library/collection.
